@@ -1,4 +1,4 @@
-opsworks-shufti-search
-======================
+opsworks-hello
+==============
 
-OpsWorks Chef cookbook for search servers
+OpsWorks sample custom recipe
